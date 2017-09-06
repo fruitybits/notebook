@@ -1,0 +1,4 @@
+    1  ls
+    2  ls G
+    3  ls -G
+    4  xcode-select --
