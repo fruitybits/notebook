@@ -1,0 +1,12 @@
+Redirection helps you move the output from one command and put the contents into another file in your system. 
+
+	1/ History will give you a history of your command lines
+	2/ cmd - control - l will clear the screen but let you scroll to previous content
+	3/ cmd k  will clear the screen but not let you scroll to previous content
+	4/ to run a specific command from history, use the ! And the number of the command. !555.
+	5/ to run the last command from history, you can use bang bang or !!
+	6/ The “>” symbol outputs a commands contents into a new file. So you could do history > notes.txt to create a text file of your history. It overwrites what’s currently in the file.
+	7/ Double “> >” to be able to append. Note that in the history log this will cause history to skip some numbers.
+	8/ head displays the first 10 lines of a file. You could also return more lines by doing head -n X, where X is the number of lines you’d like to show
+	9/ tail provides the last 10 lines of a file. You can also return more lines by doing tail -n X, where X is the number of lines you’d like to show.	
+	10/ find will return path of the file you’re looking for. For example find ~/Projects -name notes.txt. 
