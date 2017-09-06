@@ -1,0 +1,720 @@
+    1  ls
+    2  ls G
+    3  ls -G
+    4  xcode-select --
+    5  xcode-select --install
+    6  xcode-select --install
+    7  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    8  brew analytics off
+    9  xcode-select --install
+   10  brew install bash
+   11  echo '/usr/local/bin/bash' | sudo tee -a /etc/shells
+   12  bash -version
+   13  ls
+   14  bash -version
+   15  whoami
+   16  curl -fsSL https://git.io/v50Ta | ruby
+   17  ls
+   18  Desktop/
+   19  cd -- Desktop/
+   20  cd --
+   21  Desktop/
+   22  echo $SHELL
+   23  cat /etc/shells
+   24  chsh -s /usr/local/bin/bash
+   25  echo $SHELL
+   26  echo $SHELL
+   27  Desktop/
+   28  /
+   29  brew install git
+   30  git --version
+   31  brew install bash - completion
+   32  brew install bash-completion
+   33  curl -fsSL https://git.io/v504A | ruby
+   34  git config --global user.name 'Chelsea James'
+   35  git config --global user.email cheljame@amazon.com
+   36  git config --list
+   37  curl -fsSL https://git.io/v500H | sh
+   38  git config --list
+   39  java -version
+   40  psd
+   41  pwd
+   42  ls
+   43  ls ~
+   44  ls /Users/cheljame
+   45  ls.
+   46  ls .
+   47  cd Desktop/
+   48  ls .
+   49  ls ~
+   50  cd
+   51  Desktop/
+   52  cd
+   53  open .
+   54  Desktop/
+   55  open .
+   56  close .
+   57  cd
+   58  ls -l
+   59  ls -h
+   60  ls -hl
+   61  ll
+   62  ls -hal
+   63  man -l
+   64  man l
+   65  man ls
+   66  man ls
+   67  ls -Q
+   68  ls - Q
+   69  ls -q
+   70  man ls
+   71  man cd
+   72  help cd
+   73  ls -S
+   74  ls -s
+   75  ls -ls
+   76  ls -lS
+   77  ls -lT
+   78  ls -ld
+   79  ls -l@
+   80  ls -ls
+   81  ls -lr
+   82  ls -lS
+   83  ls -lsk
+   84  ls -lks
+   85  ls -lS
+   86  ls -lR
+   87  ls -lL
+   88  ls -F
+   89  ls -laF
+   90  ls -Fla
+   91  ls -R
+   92  env
+   93  echo $SHELL
+   94  echo $LOGNAME
+   95  which echo
+   96  which which
+   97  echo $PATH
+   98  ls /usr/local/bin
+   99  ls /bin/
+  100  echo $EDITOR
+  101  echo $EDITOR
+  102  nano ~/.bash_profile
+  103  man nano
+  104  cat ~/.bash_profile
+  105  cd /Projects/
+  106  mkdir Projects
+  107  cd Projects/
+  108  mkdir Week01
+  109  cd Week01
+  110  echo $?
+  111  -sdfsdl
+  112  echo $?
+  113  ll
+  114  mkdir notebook
+  115  cd /notebook
+  116  ls
+  117  cd notebook/
+  118  touch notes.txt
+  119  ll
+  120  touch notes.txt
+  121  ll
+  122  nano
+  123  open notes.txt
+  124  nano
+  125  open notes.txt
+  126  nano notes.txt
+  127  cat notes.txt
+  128  cat notebook
+  129  cp notes commands.txt
+  130  cp notes.txt blar.txt
+  131  ls
+  132  ll
+  133  cat notes.txt
+  134  mv notes.txt my\ notes
+  135  ll
+  136  rm blar.txt
+  137  ll
+  138  cd /boop
+  139  cd /notebook/boop
+  140  mkdir bloop
+  141  ll
+  142  cd bloop/
+  143  rmdir bloop/
+  144  rmdir /bloop/
+  145  man rmdir
+  146  rmdir -p bloop/
+  147  rmdir -p /bloop
+  148  ll
+  149  .
+  150  cd .
+  151  cd ..
+  152  rmdir -p /bloop
+  153  rmdir -p /notebook
+  154  rmdir -p notebook
+  155  rmdir -p notebook/
+  156  rmdir notebook
+  157  rm notebook
+  158  cd ..
+  159  rm -r notebook/
+  160  ll
+  161  man rm
+  162  mkdir bloop
+  163  ll
+  164  rmdir bloop/
+  165  ll
+  166  man rm
+  167  mkdir bloop
+  168  rm -v bloop
+  169  rm -v bloop/
+  170  man rm
+  171  ll
+  172  rm bloop/
+  173  rm -r bloop/
+  174  cd ..
+  175  cd Week01/
+  176  mkdir notebook
+  177  cd notebook/
+  178  touch yarba.txt
+  179  ll
+  180  touch yarba2.txt
+  181  ll
+  182  nano
+  183  nano yarba.txt
+  184  nano yarba2.txt
+  185  touch yarba3.xt
+  186  touch yarba3.txt
+  187  nano yarba3.txt
+  188  cat yarba3.txt
+  189  rm -r notebook/
+  190  cd ..
+  191  rm -r notebook/
+  192  ll
+  193  mkdir -p bash/nano
+  194  cp -r bash fish
+  195  ll
+  196  cd bash
+  197  ll
+  198  cd nano
+  199  ll
+  200  cd ..
+  201  cd ..
+  202  ll
+  203  cd fish
+  204  ll
+  205  history
+  206  clear
+  207  d
+  208  d
+  209  d
+  210  d
+  211  d
+  212  bb
+  213  bb
+  214  b
+  215  b
+  216  b
+  217  k
+  218  k
+  219  k
+  220  k
+  221  k
+  222  k
+  223  cd ..
+  224  cd ..
+  225  brew install bash
+  226  history
+  227  cd fish
+  228  cd notebook
+  229  ll
+  230  cd Week01/
+  231  ll
+  232  mkdir notebook
+  233  cd notebook
+  234  touch notes.txt
+  235  history > notes.txt
+  236  ll
+  237  cat notes.txt
+  238  history > notes.txt
+    1  ls
+    2  ls G
+    3  ls -G
+    4  xcode-select --
+    5  xcode-select --install
+    6  xcode-select --install
+    7  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    8  brew analytics off
+    9  xcode-select --install
+   10  brew install bash
+   11  echo '/usr/local/bin/bash' | sudo tee -a /etc/shells
+   12  bash -version
+   13  ls
+   14  bash -version
+   15  whoami
+   16  curl -fsSL https://git.io/v50Ta | ruby
+   17  ls
+   18  Desktop/
+   19  cd -- Desktop/
+   20  cd --
+   21  Desktop/
+   22  echo $SHELL
+   23  cat /etc/shells
+   24  chsh -s /usr/local/bin/bash
+   25  echo $SHELL
+   26  echo $SHELL
+   27  Desktop/
+   28  /
+   29  brew install git
+   30  git --version
+   31  brew install bash - completion
+   32  brew install bash-completion
+   33  curl -fsSL https://git.io/v504A | ruby
+   34  git config --global user.name 'Chelsea James'
+   35  git config --global user.email cheljame@amazon.com
+   36  git config --list
+   37  curl -fsSL https://git.io/v500H | sh
+   38  git config --list
+   39  java -version
+   40  psd
+   41  pwd
+   42  ls
+   43  ls ~
+   44  ls /Users/cheljame
+   45  ls.
+   46  ls .
+   47  cd Desktop/
+   48  ls .
+   49  ls ~
+   50  cd
+   51  Desktop/
+   52  cd
+   53  open .
+   54  Desktop/
+   55  open .
+   56  close .
+   57  cd
+   58  ls -l
+   59  ls -h
+   60  ls -hl
+   61  ll
+   62  ls -hal
+   63  man -l
+   64  man l
+   65  man ls
+   66  man ls
+   67  ls -Q
+   68  ls - Q
+   69  ls -q
+   70  man ls
+   71  man cd
+   72  help cd
+   73  ls -S
+   74  ls -s
+   75  ls -ls
+   76  ls -lS
+   77  ls -lT
+   78  ls -ld
+   79  ls -l@
+   80  ls -ls
+   81  ls -lr
+   82  ls -lS
+   83  ls -lsk
+   84  ls -lks
+   85  ls -lS
+   86  ls -lR
+   87  ls -lL
+   88  ls -F
+   89  ls -laF
+   90  ls -Fla
+   91  ls -R
+   92  env
+   93  echo $SHELL
+   94  echo $LOGNAME
+   95  which echo
+   96  which which
+   97  echo $PATH
+   98  ls /usr/local/bin
+   99  ls /bin/
+  100  echo $EDITOR
+  101  echo $EDITOR
+  102  nano ~/.bash_profile
+  103  man nano
+  104  cat ~/.bash_profile
+  105  cd /Projects/
+  106  mkdir Projects
+  107  cd Projects/
+  108  mkdir Week01
+  109  cd Week01
+  110  echo $?
+  111  -sdfsdl
+  112  echo $?
+  113  ll
+  114  mkdir notebook
+  115  cd /notebook
+  116  ls
+  117  cd notebook/
+  118  touch notes.txt
+  119  ll
+  120  touch notes.txt
+  121  ll
+  122  nano
+  123  open notes.txt
+  124  nano
+  125  open notes.txt
+  126  nano notes.txt
+  127  cat notes.txt
+  128  cat notebook
+  129  cp notes commands.txt
+  130  cp notes.txt blar.txt
+  131  ls
+  132  ll
+  133  cat notes.txt
+  134  mv notes.txt my\ notes
+  135  ll
+  136  rm blar.txt
+  137  ll
+  138  cd /boop
+  139  cd /notebook/boop
+  140  mkdir bloop
+  141  ll
+  142  cd bloop/
+  143  rmdir bloop/
+  144  rmdir /bloop/
+  145  man rmdir
+  146  rmdir -p bloop/
+  147  rmdir -p /bloop
+  148  ll
+  149  .
+  150  cd .
+  151  cd ..
+  152  rmdir -p /bloop
+  153  rmdir -p /notebook
+  154  rmdir -p notebook
+  155  rmdir -p notebook/
+  156  rmdir notebook
+  157  rm notebook
+  158  cd ..
+  159  rm -r notebook/
+  160  ll
+  161  man rm
+  162  mkdir bloop
+  163  ll
+  164  rmdir bloop/
+  165  ll
+  166  man rm
+  167  mkdir bloop
+  168  rm -v bloop
+  169  rm -v bloop/
+  170  man rm
+  171  ll
+  172  rm bloop/
+  173  rm -r bloop/
+  174  cd ..
+  175  cd Week01/
+  176  mkdir notebook
+  177  cd notebook/
+  178  touch yarba.txt
+  179  ll
+  180  touch yarba2.txt
+  181  ll
+  182  nano
+  183  nano yarba.txt
+  184  nano yarba2.txt
+  185  touch yarba3.xt
+  186  touch yarba3.txt
+  187  nano yarba3.txt
+  188  cat yarba3.txt
+  189  rm -r notebook/
+  190  cd ..
+  191  rm -r notebook/
+  192  ll
+  193  mkdir -p bash/nano
+  194  cp -r bash fish
+  195  ll
+  196  cd bash
+  197  ll
+  198  cd nano
+  199  ll
+  200  cd ..
+  201  cd ..
+  202  ll
+  203  cd fish
+  204  ll
+  205  history
+  206  clear
+  207  d
+  208  d
+  209  d
+  210  d
+  211  d
+  212  bb
+  213  bb
+  214  b
+  215  b
+  216  b
+  217  k
+  218  k
+  219  k
+  220  k
+  221  k
+  222  k
+  223  cd ..
+  224  cd ..
+  225  brew install bash
+  226  history
+  227  cd fish
+  228  cd notebook
+  229  ll
+  230  cd Week01/
+  231  ll
+  232  mkdir notebook
+  233  cd notebook
+  234  touch notes.txt
+  235  history > notes.txt
+  236  ll
+  237  cat notes.txt
+  238  history > notes.txt
+  239  cat notes.txt
+  240  history >> notes.txt
+    1  ls
+    2  ls G
+    3  ls -G
+    4  xcode-select --
+    5  xcode-select --install
+    6  xcode-select --install
+    7  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    8  brew analytics off
+    9  xcode-select --install
+   10  brew install bash
+   11  echo '/usr/local/bin/bash' | sudo tee -a /etc/shells
+   12  bash -version
+   13  ls
+   14  bash -version
+   15  whoami
+   16  curl -fsSL https://git.io/v50Ta | ruby
+   17  ls
+   18  Desktop/
+   19  cd -- Desktop/
+   20  cd --
+   21  Desktop/
+   22  echo $SHELL
+   23  cat /etc/shells
+   24  chsh -s /usr/local/bin/bash
+   25  echo $SHELL
+   26  echo $SHELL
+   27  Desktop/
+   28  /
+   29  brew install git
+   30  git --version
+   31  brew install bash - completion
+   32  brew install bash-completion
+   33  curl -fsSL https://git.io/v504A | ruby
+   34  git config --global user.name 'Chelsea James'
+   35  git config --global user.email cheljame@amazon.com
+   36  git config --list
+   37  curl -fsSL https://git.io/v500H | sh
+   38  git config --list
+   39  java -version
+   40  psd
+   41  pwd
+   42  ls
+   43  ls ~
+   44  ls /Users/cheljame
+   45  ls.
+   46  ls .
+   47  cd Desktop/
+   48  ls .
+   49  ls ~
+   50  cd
+   51  Desktop/
+   52  cd
+   53  open .
+   54  Desktop/
+   55  open .
+   56  close .
+   57  cd
+   58  ls -l
+   59  ls -h
+   60  ls -hl
+   61  ll
+   62  ls -hal
+   63  man -l
+   64  man l
+   65  man ls
+   66  man ls
+   67  ls -Q
+   68  ls - Q
+   69  ls -q
+   70  man ls
+   71  man cd
+   72  help cd
+   73  ls -S
+   74  ls -s
+   75  ls -ls
+   76  ls -lS
+   77  ls -lT
+   78  ls -ld
+   79  ls -l@
+   80  ls -ls
+   81  ls -lr
+   82  ls -lS
+   83  ls -lsk
+   84  ls -lks
+   85  ls -lS
+   86  ls -lR
+   87  ls -lL
+   88  ls -F
+   89  ls -laF
+   90  ls -Fla
+   91  ls -R
+   92  env
+   93  echo $SHELL
+   94  echo $LOGNAME
+   95  which echo
+   96  which which
+   97  echo $PATH
+   98  ls /usr/local/bin
+   99  ls /bin/
+  100  echo $EDITOR
+  101  echo $EDITOR
+  102  nano ~/.bash_profile
+  103  man nano
+  104  cat ~/.bash_profile
+  105  cd /Projects/
+  106  mkdir Projects
+  107  cd Projects/
+  108  mkdir Week01
+  109  cd Week01
+  110  echo $?
+  111  -sdfsdl
+  112  echo $?
+  113  ll
+  114  mkdir notebook
+  115  cd /notebook
+  116  ls
+  117  cd notebook/
+  118  touch notes.txt
+  119  ll
+  120  touch notes.txt
+  121  ll
+  122  nano
+  123  open notes.txt
+  124  nano
+  125  open notes.txt
+  126  nano notes.txt
+  127  cat notes.txt
+  128  cat notebook
+  129  cp notes commands.txt
+  130  cp notes.txt blar.txt
+  131  ls
+  132  ll
+  133  cat notes.txt
+  134  mv notes.txt my\ notes
+  135  ll
+  136  rm blar.txt
+  137  ll
+  138  cd /boop
+  139  cd /notebook/boop
+  140  mkdir bloop
+  141  ll
+  142  cd bloop/
+  143  rmdir bloop/
+  144  rmdir /bloop/
+  145  man rmdir
+  146  rmdir -p bloop/
+  147  rmdir -p /bloop
+  148  ll
+  149  .
+  150  cd .
+  151  cd ..
+  152  rmdir -p /bloop
+  153  rmdir -p /notebook
+  154  rmdir -p notebook
+  155  rmdir -p notebook/
+  156  rmdir notebook
+  157  rm notebook
+  158  cd ..
+  159  rm -r notebook/
+  160  ll
+  161  man rm
+  162  mkdir bloop
+  163  ll
+  164  rmdir bloop/
+  165  ll
+  166  man rm
+  167  mkdir bloop
+  168  rm -v bloop
+  169  rm -v bloop/
+  170  man rm
+  171  ll
+  172  rm bloop/
+  173  rm -r bloop/
+  174  cd ..
+  175  cd Week01/
+  176  mkdir notebook
+  177  cd notebook/
+  178  touch yarba.txt
+  179  ll
+  180  touch yarba2.txt
+  181  ll
+  182  nano
+  183  nano yarba.txt
+  184  nano yarba2.txt
+  185  touch yarba3.xt
+  186  touch yarba3.txt
+  187  nano yarba3.txt
+  188  cat yarba3.txt
+  189  rm -r notebook/
+  190  cd ..
+  191  rm -r notebook/
+  192  ll
+  193  mkdir -p bash/nano
+  194  cp -r bash fish
+  195  ll
+  196  cd bash
+  197  ll
+  198  cd nano
+  199  ll
+  200  cd ..
+  201  cd ..
+  202  ll
+  203  cd fish
+  204  ll
+  205  history
+  206  clear
+  207  d
+  208  d
+  209  d
+  210  d
+  211  d
+  212  bb
+  213  bb
+  214  b
+  215  b
+  216  b
+  217  k
+  218  k
+  219  k
+  220  k
+  221  k
+  222  k
+  223  cd ..
+  224  cd ..
+  225  brew install bash
+  226  history
+  227  cd fish
+  228  cd notebook
+  229  ll
+  230  cd Week01/
+  231  ll
+  232  mkdir notebook
+  233  cd notebook
+  234  touch notes.txt
+  235  history > notes.txt
+  236  ll
+  237  cat notes.txt
+  238  history > notes.txt
+  239  cat notes.txt
+  240  history >> notes.txt
+  241  cat notes.txt
+  242  history >> notes.txt
